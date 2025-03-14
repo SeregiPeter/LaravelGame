@@ -25,6 +25,11 @@ To run, you need to:
     <li>
         php artisan serve
     </li>
+    <li>
+        <li>
+        php artisan db:seed
+    </li>
+    </li>
 </ul>
 
 
@@ -34,6 +39,6 @@ To run, you need to:
 
 
 
-npm run dev
+
 
 
